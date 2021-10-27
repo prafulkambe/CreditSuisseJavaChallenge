@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="2335" started-at="2021-10-27T14:40:07Z" finished-at="2021-10-27T14:40:10Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="2335" started-at="2021-10-27T14:40:07Z" finished-at="2021-10-27T14:40:10Z">
+      <class name="com.sc.test.End2EndPositiveScenarioWithExtentReport">
+        <test-method status="PASS" signature="getInputArgument()[pri:0, instance:com.sc.test.End2EndPositiveScenarioWithExtentReport@2c6a3f77]" name="getInputArgument" is-config="true" duration-ms="1073" started-at="2021-10-27T20:10:07Z" finished-at="2021-10-27T20:10:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getInputArgument -->
+        <test-method status="PASS" signature="logProcessingTest()[pri:0, instance:com.sc.test.End2EndPositiveScenarioWithExtentReport@2c6a3f77]" name="logProcessingTest" duration-ms="1206" started-at="2021-10-27T20:10:09Z" finished-at="2021-10-27T20:10:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logProcessingTest -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:com.sc.test.End2EndPositiveScenarioWithExtentReport@2c6a3f77]" name="afterTest" is-config="true" duration-ms="2" started-at="2021-10-27T20:10:10Z" finished-at="2021-10-27T20:10:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- com.sc.test.End2EndPositiveScenarioWithExtentReport -->
+      <class name="com.sc.test.HyperSqlDBConnectionTest">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.sc.test.HyperSqlDBConnectionTest@246ae04d]" name="beforeTest" is-config="true" duration-ms="5" started-at="2021-10-27T20:10:10Z" finished-at="2021-10-27T20:10:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="checkDBConnectionTest()[pri:1, instance:com.sc.test.HyperSqlDBConnectionTest@246ae04d]" name="checkDBConnectionTest" duration-ms="9" started-at="2021-10-27T20:10:10Z" finished-at="2021-10-27T20:10:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkDBConnectionTest -->
+        <test-method status="PASS" signature="createTableTest()[pri:2, instance:com.sc.test.HyperSqlDBConnectionTest@246ae04d]" name="createTableTest" duration-ms="4" started-at="2021-10-27T20:10:10Z" finished-at="2021-10-27T20:10:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createTableTest -->
+        <test-method status="PASS" signature="readRecordsFromDBTest()[pri:3, instance:com.sc.test.HyperSqlDBConnectionTest@246ae04d]" name="readRecordsFromDBTest" duration-ms="15" started-at="2021-10-27T20:10:10Z" finished-at="2021-10-27T20:10:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- readRecordsFromDBTest -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:com.sc.test.HyperSqlDBConnectionTest@246ae04d]" name="afterTest" is-config="true" duration-ms="3" started-at="2021-10-27T20:10:10Z" finished-at="2021-10-27T20:10:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- com.sc.test.HyperSqlDBConnectionTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

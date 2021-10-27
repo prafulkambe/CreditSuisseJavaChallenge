@@ -1,0 +1,157 @@
+[INFO ] 2021-10-27 19:24:45.538 [main] Log - ****** ***********************************************************
+[INFO ] 2021-10-27 19:24:45.554 [main] Log - ***** Initializing Test Execution for End2EndTest ****************
+[INFO ] 2021-10-27 19:24:45.554 [main] Log - ******************************************************************
+[WARN ] 2021-10-27 19:24:45.977 [main] Log - Deleting all entries in DB table < LogEvents >.
+[INFO ] 2021-10-27 19:24:45.992 [main] Log - Creating LogEvents table
+[INFO ] 2021-10-27 19:24:46.008 [main] Log - Closing DB connection.
+[INFO ] 2021-10-27 19:24:46.277 [main] Log - ******************************************************
+[INFO ] 2021-10-27 19:24:46.277 [main] Log - ****** Finished Test Execution for End2EndTest *******
+[INFO ] 2021-10-27 19:24:46.277 [main] Log - ******************************************************
+[INFO ] 2021-10-27 19:24:46.277 [main] Log - ****** ***********************************************************
+[INFO ] 2021-10-27 19:24:46.277 [main] Log - ***** Initializing Test Execution for End2EndTest ****************
+[INFO ] 2021-10-27 19:24:46.277 [main] Log - ******************************************************************
+[INFO ] 2021-10-27 19:24:46.277 [main] Log - *****************************************************************************************
+[INFO ] 2021-10-27 19:24:46.277 [main] Log - ****** Initializing Test Execution for class com.sc.test.HyperSqlDBConnectionTest *******
+[INFO ] 2021-10-27 19:24:46.277 [main] Log - *****************************************************************************************
+[INFO ] 2021-10-27 19:24:46.277 [main] Log - DB Connection is successful
+[INFO ] 2021-10-27 19:24:46.293 [main] Log - Closing DB connection.
+[INFO ] 2021-10-27 19:24:46.293 [main] Log - DB Connection is successful
+[INFO ] 2021-10-27 19:24:46.293 [main] Log - Creating LogEvents table
+[INFO ] 2021-10-27 19:24:46.293 [main] Log - Closing DB connection.
+[INFO ] 2021-10-27 19:24:46.293 [main] Log - DB Connection is successful
+[INFO ] 2021-10-27 19:24:46.293 [main] Log - Closing DB connection.
+[INFO ] 2021-10-27 19:24:46.293 [main] Log - *****************************************************************************************
+[INFO ] 2021-10-27 19:24:46.293 [main] Log - ****** Finished Test Execution for class com.sc.test.HyperSqlDBConnectionTest *******
+[INFO ] 2021-10-27 19:24:46.293 [main] Log - *****************************************************************************************
+[INFO ] 2021-10-27 19:31:10.501 [main] Log - ****** ***********************************************************
+[INFO ] 2021-10-27 19:31:10.507 [main] Log - ***** Initializing Test Execution for End2EndTest ****************
+[INFO ] 2021-10-27 19:31:10.509 [main] Log - ******************************************************************
+[WARN ] 2021-10-27 19:31:11.345 [main] Log - Deleting all entries in DB table < LogEvents >.
+[INFO ] 2021-10-27 19:31:11.355 [main] Log - Creating LogEvents table
+[INFO ] 2021-10-27 19:31:11.372 [main] Log - Closing DB connection.
+[INFO ] 2021-10-27 19:31:12.002 [main] Log - ******************************************************
+[INFO ] 2021-10-27 19:31:12.002 [main] Log - ****** Finished Test Execution for End2EndTest *******
+[INFO ] 2021-10-27 19:31:12.002 [main] Log - ******************************************************
+[INFO ] 2021-10-27 19:31:12.005 [main] Log - *****************************************************************************************
+[INFO ] 2021-10-27 19:31:12.006 [main] Log - ****** Initializing Test Execution for class com.sc.test.HyperSqlDBConnectionTest *******
+[INFO ] 2021-10-27 19:31:12.006 [main] Log - *****************************************************************************************
+[INFO ] 2021-10-27 19:31:12.015 [main] Log - DB Connection is successful
+[INFO ] 2021-10-27 19:31:12.015 [main] Log - Closing DB connection.
+[INFO ] 2021-10-27 19:31:12.019 [main] Log - DB Connection is successful
+[INFO ] 2021-10-27 19:31:12.020 [main] Log - Creating LogEvents table
+[INFO ] 2021-10-27 19:31:12.021 [main] Log - Closing DB connection.
+[INFO ] 2021-10-27 19:31:12.024 [main] Log - DB Connection is successful
+[INFO ] 2021-10-27 19:31:12.034 [main] Log - Closing DB connection.
+[INFO ] 2021-10-27 19:31:12.037 [main] Log - *****************************************************************************************
+[INFO ] 2021-10-27 19:31:12.037 [main] Log - ****** Finished Test Execution for class com.sc.test.HyperSqlDBConnectionTest *******
+[INFO ] 2021-10-27 19:31:12.038 [main] Log - *****************************************************************************************
+[INFO ] 2021-10-27 19:54:46.112 [main] Log - ****** ***********************************************************
+[INFO ] 2021-10-27 19:54:46.119 [main] Log - ***** Initializing Test Execution for End2EndTest ****************
+[INFO ] 2021-10-27 19:54:46.119 [main] Log - ******************************************************************
+[ERROR] 2021-10-27 19:54:46.265 [main] Log - Exception occured during test Execution : java.lang.NullPointerException
+[INFO ] 2021-10-27 19:54:46.642 [main] Log - ******************************************************
+[INFO ] 2021-10-27 19:54:46.642 [main] Log - ****** Finished Test Execution for End2EndTest *******
+[INFO ] 2021-10-27 19:54:46.643 [main] Log - ******************************************************
+[INFO ] 2021-10-27 19:54:46.648 [main] Log - *****************************************************************************************
+[INFO ] 2021-10-27 19:54:46.649 [main] Log - ****** Initializing Test Execution for class com.sc.test.HyperSqlDBConnectionTest *******
+[INFO ] 2021-10-27 19:54:46.650 [main] Log - *****************************************************************************************
+[INFO ] 2021-10-27 19:54:47.146 [main] Log - DB Connection is successful
+[INFO ] 2021-10-27 19:54:47.149 [main] Log - Closing DB connection.
+[INFO ] 2021-10-27 19:54:47.160 [main] Log - DB Connection is successful
+[INFO ] 2021-10-27 19:54:47.161 [main] Log - Creating LogEvents table
+[INFO ] 2021-10-27 19:54:47.165 [main] Log - Closing DB connection.
+[INFO ] 2021-10-27 19:54:47.167 [main] Log - DB Connection is successful
+[INFO ] 2021-10-27 19:54:47.178 [main] Log - Closing DB connection.
+[INFO ] 2021-10-27 19:54:47.180 [main] Log - *****************************************************************************************
+[INFO ] 2021-10-27 19:54:47.181 [main] Log - ****** Finished Test Execution for class com.sc.test.HyperSqlDBConnectionTest *******
+[INFO ] 2021-10-27 19:54:47.181 [main] Log - *****************************************************************************************
+[INFO ] 2021-10-27 19:57:21.647 [main] Log - *****************************************************************************************
+[INFO ] 2021-10-27 19:57:21.654 [main] Log - ****** Initializing Test Execution for class com.sc.test.HyperSqlDBConnectionTest *******
+[INFO ] 2021-10-27 19:57:21.654 [main] Log - *****************************************************************************************
+[INFO ] 2021-10-27 19:57:22.431 [main] Log - DB Connection is successful
+[INFO ] 2021-10-27 19:57:22.437 [main] Log - Closing DB connection.
+[INFO ] 2021-10-27 19:57:22.451 [main] Log - DB Connection is successful
+[INFO ] 2021-10-27 19:57:22.452 [main] Log - Creating LogEvents table
+[INFO ] 2021-10-27 19:57:22.458 [main] Log - Closing DB connection.
+[INFO ] 2021-10-27 19:57:22.461 [main] Log - DB Connection is successful
+[INFO ] 2021-10-27 19:57:22.473 [main] Log - Closing DB connection.
+[INFO ] 2021-10-27 19:57:22.475 [main] Log - *****************************************************************************************
+[INFO ] 2021-10-27 19:57:22.476 [main] Log - ****** Finished Test Execution for class com.sc.test.HyperSqlDBConnectionTest *******
+[INFO ] 2021-10-27 19:57:22.477 [main] Log - *****************************************************************************************
+[INFO ] 2021-10-27 19:59:58.839 [main] Log - ****** ***********************************************************
+[INFO ] 2021-10-27 19:59:58.853 [main] Log - ***** Initializing Test Execution for End2EndTest ****************
+[INFO ] 2021-10-27 19:59:58.855 [main] Log - ******************************************************************
+[ERROR] 2021-10-27 19:59:59.057 [main] Log - Exception occured during test Execution : java.lang.NullPointerException
+[INFO ] 2021-10-27 19:59:59.496 [main] Log - ******************************************************
+[INFO ] 2021-10-27 19:59:59.497 [main] Log - ****** Finished Test Execution for End2EndTest *******
+[INFO ] 2021-10-27 19:59:59.498 [main] Log - ******************************************************
+[INFO ] 2021-10-27 19:59:59.499 [main] Log - *****************************************************************************************
+[INFO ] 2021-10-27 19:59:59.499 [main] Log - ****** Initializing Test Execution for class com.sc.test.HyperSqlDBConnectionTest *******
+[INFO ] 2021-10-27 19:59:59.501 [main] Log - *****************************************************************************************
+[INFO ] 2021-10-27 20:00:00.063 [main] Log - DB Connection is successful
+[INFO ] 2021-10-27 20:00:00.066 [main] Log - Closing DB connection.
+[INFO ] 2021-10-27 20:00:00.081 [main] Log - DB Connection is successful
+[INFO ] 2021-10-27 20:00:00.083 [main] Log - Creating LogEvents table
+[INFO ] 2021-10-27 20:00:00.089 [main] Log - Closing DB connection.
+[INFO ] 2021-10-27 20:00:00.092 [main] Log - DB Connection is successful
+[INFO ] 2021-10-27 20:00:00.106 [main] Log - Closing DB connection.
+[INFO ] 2021-10-27 20:00:00.108 [main] Log - *****************************************************************************************
+[INFO ] 2021-10-27 20:00:00.109 [main] Log - ****** Finished Test Execution for class com.sc.test.HyperSqlDBConnectionTest *******
+[INFO ] 2021-10-27 20:00:00.110 [main] Log - *****************************************************************************************
+[INFO ] 2021-10-27 20:01:35.430 [main] Log - *****************************************************************************************
+[INFO ] 2021-10-27 20:01:35.431 [main] Log - ****** Initializing Test Execution for class com.sc.test.HyperSqlDBConnectionTest *******
+[INFO ] 2021-10-27 20:01:35.437 [main] Log - *****************************************************************************************
+[INFO ] 2021-10-27 20:01:35.990 [main] Log - DB Connection is successful
+[INFO ] 2021-10-27 20:01:35.991 [main] Log - Closing DB connection.
+[INFO ] 2021-10-27 20:01:36.007 [main] Log - DB Connection is successful
+[INFO ] 2021-10-27 20:01:36.008 [main] Log - Creating LogEvents table
+[INFO ] 2021-10-27 20:01:36.013 [main] Log - Closing DB connection.
+[INFO ] 2021-10-27 20:01:36.017 [main] Log - DB Connection is successful
+[INFO ] 2021-10-27 20:01:36.028 [main] Log - Closing DB connection.
+[INFO ] 2021-10-27 20:01:36.032 [main] Log - *****************************************************************************************
+[INFO ] 2021-10-27 20:01:36.033 [main] Log - ****** Finished Test Execution for class com.sc.test.HyperSqlDBConnectionTest *******
+[INFO ] 2021-10-27 20:01:36.034 [main] Log - *****************************************************************************************
+[INFO ] 2021-10-27 20:03:15.058 [main] Log - ****** ***********************************************************
+[INFO ] 2021-10-27 20:03:15.064 [main] Log - ***** Initializing Test Execution for End2EndTest ****************
+[INFO ] 2021-10-27 20:03:15.064 [main] Log - ******************************************************************
+[WARN ] 2021-10-27 20:03:15.674 [main] Log - Deleting all entries in DB table : LogEvents
+[INFO ] 2021-10-27 20:03:15.691 [main] Log - Creating LogEvents table
+[INFO ] 2021-10-27 20:03:15.723 [main] Log - Closing DB connection.
+[INFO ] 2021-10-27 20:03:16.138 [main] Log - ******************************************************
+[INFO ] 2021-10-27 20:03:16.138 [main] Log - ****** Finished Test Execution for End2EndTest *******
+[INFO ] 2021-10-27 20:03:16.138 [main] Log - ******************************************************
+[INFO ] 2021-10-27 20:03:16.141 [main] Log - *****************************************************************************************
+[INFO ] 2021-10-27 20:03:16.142 [main] Log - ****** Initializing Test Execution for class com.sc.test.HyperSqlDBConnectionTest *******
+[INFO ] 2021-10-27 20:03:16.142 [main] Log - *****************************************************************************************
+[INFO ] 2021-10-27 20:03:16.149 [main] Log - DB Connection is successful
+[INFO ] 2021-10-27 20:03:16.151 [main] Log - Closing DB connection.
+[INFO ] 2021-10-27 20:03:16.158 [main] Log - DB Connection is successful
+[INFO ] 2021-10-27 20:03:16.159 [main] Log - Creating LogEvents table
+[INFO ] 2021-10-27 20:03:16.160 [main] Log - Closing DB connection.
+[INFO ] 2021-10-27 20:03:16.164 [main] Log - DB Connection is successful
+[INFO ] 2021-10-27 20:03:16.173 [main] Log - Closing DB connection.
+[INFO ] 2021-10-27 20:03:16.177 [main] Log - *****************************************************************************************
+[INFO ] 2021-10-27 20:03:16.178 [main] Log - ****** Finished Test Execution for class com.sc.test.HyperSqlDBConnectionTest *******
+[INFO ] 2021-10-27 20:03:16.178 [main] Log - *****************************************************************************************
+[INFO ] 2021-10-27 20:10:08.941 [main] Log - ****** ***********************************************************
+[INFO ] 2021-10-27 20:10:08.959 [main] Log - ***** Initializing Test Execution for End2EndTest ****************
+[INFO ] 2021-10-27 20:10:08.959 [main] Log - ******************************************************************
+[WARN ] 2021-10-27 20:10:09.782 [main] Log - Deleting all entries in DB table : LogEvents
+[INFO ] 2021-10-27 20:10:09.806 [main] Log - Creating LogEvents table
+[INFO ] 2021-10-27 20:10:09.822 [main] Log - Closing DB connection.
+[INFO ] 2021-10-27 20:10:10.282 [main] Log - ******************************************************
+[INFO ] 2021-10-27 20:10:10.282 [main] Log - ****** Finished Test Execution for End2EndTest *******
+[INFO ] 2021-10-27 20:10:10.283 [main] Log - ******************************************************
+[INFO ] 2021-10-27 20:10:10.285 [main] Log - *****************************************************************************************
+[INFO ] 2021-10-27 20:10:10.285 [main] Log - ****** Initializing Test Execution for class com.sc.test.HyperSqlDBConnectionTest *******
+[INFO ] 2021-10-27 20:10:10.286 [main] Log - *****************************************************************************************
+[INFO ] 2021-10-27 20:10:10.293 [main] Log - DB Connection is successful
+[INFO ] 2021-10-27 20:10:10.296 [main] Log - Closing DB connection.
+[INFO ] 2021-10-27 20:10:10.300 [main] Log - DB Connection is successful
+[INFO ] 2021-10-27 20:10:10.300 [main] Log - Creating LogEvents table
+[INFO ] 2021-10-27 20:10:10.301 [main] Log - Closing DB connection.
+[INFO ] 2021-10-27 20:10:10.305 [main] Log - DB Connection is successful
+[INFO ] 2021-10-27 20:10:10.316 [main] Log - Closing DB connection.
+[INFO ] 2021-10-27 20:10:10.319 [main] Log - *****************************************************************************************
+[INFO ] 2021-10-27 20:10:10.319 [main] Log - ****** Finished Test Execution for class com.sc.test.HyperSqlDBConnectionTest *******
+[INFO ] 2021-10-27 20:10:10.319 [main] Log - *****************************************************************************************

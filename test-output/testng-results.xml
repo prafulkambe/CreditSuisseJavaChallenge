@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="1416" started-at="2021-10-27T13:34:39Z" finished-at="2021-10-27T13:34:40Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="1416" started-at="2021-10-27T13:34:39Z" finished-at="2021-10-27T13:34:40Z">
+      <class name="com.sc.test.HyperSqlDBConnectionTest">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.sc.test.HyperSqlDBConnectionTest@1753acfe]" name="beforeTest" is-config="true" duration-ms="1083" started-at="2021-10-27T19:04:39Z" finished-at="2021-10-27T19:04:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="checkDBConnectionTest()[pri:1, instance:com.sc.test.HyperSqlDBConnectionTest@1753acfe]" name="checkDBConnectionTest" duration-ms="303" started-at="2021-10-27T19:04:40Z" finished-at="2021-10-27T19:04:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkDBConnectionTest -->
+        <test-method status="PASS" signature="readRecordsFromDBTest()[pri:3, instance:com.sc.test.HyperSqlDBConnectionTest@1753acfe]" name="readRecordsFromDBTest" duration-ms="16" started-at="2021-10-27T19:04:40Z" finished-at="2021-10-27T19:04:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- readRecordsFromDBTest -->
+        <test-method status="PASS" signature="createTableTest()[pri:2, instance:com.sc.test.HyperSqlDBConnectionTest@1753acfe]" name="createTableTest" duration-ms="0" started-at="2021-10-27T19:04:40Z" finished-at="2021-10-27T19:04:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createTableTest -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:com.sc.test.HyperSqlDBConnectionTest@1753acfe]" name="afterTest" is-config="true" duration-ms="0" started-at="2021-10-27T19:04:40Z" finished-at="2021-10-27T19:04:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- com.sc.test.HyperSqlDBConnectionTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
